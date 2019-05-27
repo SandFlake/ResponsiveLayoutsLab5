@@ -1,0 +1,19 @@
+.instruction {
+    font-size: 1.5rem;
+}
+
+.ratingView ul {
+    display: inline;
+}
+.ratingView li {
+    list-style-type: none;
+    display: inline;
+}
+.ratingView img {
+    width: 40px;
+    height: auto;
+}
+
+#movie-list {
+    padding-left: 0;
+}
